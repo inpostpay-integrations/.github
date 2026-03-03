@@ -3,5 +3,6 @@
 ## Modules
 
 - [InPostPay: Magneto 2](https://github.com/InPostPay-Magento-2)
-- [InpostBuy: PrestaShop](https://github.com/InPostBuy-PrestaShop)
-- [InPostBuy: SDK](https://github.com/InPostBuy-SDK)
+- [InpostPay: PrestaShop](https://github.com/InPostPay-PrestaShop)
+- [InPostPay: Shopify](https://github.com/InPostPay-Shopify)
+- [InpostPay: WooCommerce](https://github.com/InPostPay-WooCommerce)
